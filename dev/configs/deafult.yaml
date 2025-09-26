@@ -1,0 +1,8 @@
+data:
+  csv_path: ${LOAD_CSV}           # set this env var locally; repo contains no data
+  timezone: Asia/Dhaka
+  point_lat: 23.8103
+  point_lon: 90.4125
+features:
+  # (more to come later; right now we just enrich with weather)
+  weather: true
