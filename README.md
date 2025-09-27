@@ -1,4 +1,4 @@
-<h1 align="center">STLF‑LCT‑Net 🚀 — Short‑Term Load Forecasting (LCT‑Net)</h1>
+<h1 align="center">STLF‑LCT‑Net — Short‑Term Load Forecasting (LCT‑Net)</h1>
 <div align="center">
   <strong>Reproducible STLF experiments and utilities built around a CNN + LCT + attention model</strong><br/>
   <em>Code supporting an academic study on STLF — this repository implements the experiments & reproducible pipeline.</em>
